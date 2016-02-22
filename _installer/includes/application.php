@@ -159,7 +159,7 @@
     //Unterverzeichnis ermitteln
     $tmp = explode(DIR_MODIFIED_INSTALLER, $_SERVER["PHP_SELF"]);
     $subdir = $tmp[0];
-    //Prüfen ob Domain im Pfad enthalten ist, wenn nein Pfad Stratopfad erzeugen: /home/strato/www/ersten zwei_buchstaben/www.wunschname.de/htdocs/
+    //PrÃ¼fen ob Domain im Pfad enthalten ist, wenn nein Pfad Stratopfad erzeugen: /home/strato/www/ersten zwei_buchstaben/www.wunschname.de/htdocs/
     if(stristr($document_root, $domain) === FALSE) {
       //Korrektur Unterverzeichnis      
       $htdocs = str_replace($_SERVER["SCRIPT_NAME"],'',$_SERVER["SCRIPT_FILENAME"]);

@@ -322,7 +322,7 @@ h1 { font-size: 18px; margin: 0; padding: 0; margin-bottom: 10px; }
         </tr>
         <?php } elseif (!$clean) { ?>
         <tr>
-          <td valign="top">Diese Dateien müssen gelöscht werden:</td>
+          <td valign="top">Diese Dateien mÃ¼ssen gelÃ¶scht werden:</td>
           <td><?php echo implode('<br/>', $unlink_file); ?></td>
         </tr>
         <?php }
@@ -334,12 +334,12 @@ h1 { font-size: 18px; margin: 0; padding: 0; margin-bottom: 10px; }
         </tr>
         <?php } elseif (!$clean) { ?>
         <tr>
-          <td valign="top">Diese Verzeichnisse müssen gelöscht werden:</td>
+          <td valign="top">Diese Verzeichnisse mÃ¼ssen gelÃ¶scht werden:</td>
           <td><?php echo implode('<br/>', $unlink_dir); ?></td>
         </tr>
         <?php }  elseif ($clean) { ?>
         <tr>
-          <td valign="top" colspan="2" align="center" style="border:1px solid green; width:100%;">Es wurden die Dateien und Verzeichnisse erfolgreich gelöscht.<br/>Bitte stellen Sie sicher, dass auch die Datei &quot;update.php&quot; vom Server entfernt wurde.</td>
+          <td valign="top" colspan="2" align="center" style="border:1px solid green; width:100%;">Es wurden die Dateien und Verzeichnisse erfolgreich gelÃ¶scht.<br/>Bitte stellen Sie sicher, dass auch die Datei &quot;update.php&quot; vom Server entfernt wurde.</td>
         </tr>
         <?php } ?>        
       </table>
