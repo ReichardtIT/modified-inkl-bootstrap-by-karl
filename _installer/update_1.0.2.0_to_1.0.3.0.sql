@@ -1,7 +1,7 @@
 #Dokuman - 2009-08-20 - Added Bulgaria and Romania to EU Zones (since 01.01.2007)
 UPDATE zones_to_geo_zones SET geo_zone_id= 5 WHERE zone_country_id IN (33,175);
 
-#Dokuman - 2009-08-21 - Bundesländer->ISO-3166-2
+#Dokuman - 2009-08-21 - BundeslÃ¤nder->ISO-3166-2
 UPDATE zones SET zone_code = 'NI' WHERE zone_id = 79;
 UPDATE zones SET zone_code = 'BW' WHERE zone_id = 80;
 UPDATE zones SET zone_code = 'BY' WHERE zone_id = 81;

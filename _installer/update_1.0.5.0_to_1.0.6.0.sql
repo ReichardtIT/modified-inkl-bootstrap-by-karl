@@ -160,17 +160,17 @@ INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BR', 'Bar
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BM', 'Batman');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BB', 'Bayburt');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BC', 'Bilecik');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BG', 'Bingöl');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BG', 'BingÃ¶l');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BT', 'Bitlis');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BL', 'Bolu' );
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BD', 'Burdur');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'BU', 'Bursa');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'CK', 'Çanakkale');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'CI', 'Çankiri');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'CM', 'Çorum');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'CK', 'Ã‡anakkale');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'CI', 'Ã‡ankiri');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'CM', 'Ã‡orum');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'DN', 'Denizli');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'DY', 'Diyarbakir');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'DU', 'Düzce');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'DU', 'DÃ¼zce');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'ED', 'Edirne');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'EG', 'Elazig');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'EN', 'Erzincan');
@@ -178,7 +178,7 @@ INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'EM', 'Erz
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'ES', 'Eskisehir');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'GA', 'Gaziantep');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'GI', 'Giresun');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'GU', 'Gümüshane');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'GU', 'GÃ¼mÃ¼shane');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'HK', 'Hakkari');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'HT', 'Hatay');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'IG', 'Igdir');
@@ -186,7 +186,7 @@ INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'IP', 'Isp
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'IB', 'Istanbul');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'IZ', 'Izmir');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KM', 'Kahramanmaras');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KB', 'Karabük');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KB', 'KarabÃ¼k');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KR', 'Karaman');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KA', 'Kars');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KS', 'Kastamonu');
@@ -197,7 +197,7 @@ INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KL', 'Kir
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KH', 'Kirsehir');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KC', 'Kocaeli');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KO', 'Konya');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KU', 'Kütahya');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'KU', 'KÃ¼tahya');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'ML', 'Malatya');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'MN', 'Manisa');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (215,'MR', 'Mardin');
@@ -265,7 +265,7 @@ INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'FM','Ferm
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'FE','Ferrara');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'FI','Firenze');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'FG','Foggia');
-INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'FC','Forlì-Cesena');
+INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'FC','ForlÃ¬-Cesena');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'FR','Frosinone');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'GE','Genova');
 INSERT INTO zones (zone_country_id, zone_code, zone_name) VALUES (105,'GO','Gorizia');
