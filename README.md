@@ -12,6 +12,7 @@ modified ecommerce + template bootstrap by karl
 * Datenbank erstellen (utf-8)
 * SQL Daten (000-BACKUP/datenbank.sql) einlesen
 * /includes/configure.php anpassen
+ * alternativ http://www.modified-shop.org/wiki/Configure.php-Dateien_neu_erstellen
 * /admin/includes/configure.php anpassen
- * alternativ _installer/ aufrufen OHNE Datenbankinstallation
+ * alternativ http://www.modified-shop.org/wiki/Configure.php-Dateien_neu_erstellen
 
